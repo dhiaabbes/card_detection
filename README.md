@@ -34,10 +34,7 @@ This project can be used in different organizations where customers or users nee
 #### As, our SSIM is ~69% we can say that the image user provided is fake or tampered.
 #### Finally we visualized the differences and similarities between the images using by displaying the images with contours, difference and threshold.  
 ### Dashboard View
-![Download](./screenshot/dash.png)
+![Download](./screenshots/Capture d'écran 2024-11-12 194109.png)
 ![Download](./screenshot/login.png)
 ![Download](./screenshot/profile.png)
-![Download](./screenshot/project.png)
-![Download](./screenshot/search.png)
-![Download](./screenshot/tasks.png)
-![Download](./screenshot/users.png)
+
