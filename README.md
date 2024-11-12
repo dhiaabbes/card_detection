@@ -77,7 +77,7 @@ In one test case, the **SSIM value was approximately 69%**, indicating a high li
 The following dashboard provides a visual analysis of ID tampering:
 
 ![Screenshot of Dashboard View 1](screenshots/Capture%20d'écran%202024-11-12%20194057.png)
-![Screenshot of Dashboard View 2](screenshots/Capture%20d'écran%202024-11-12%20194154.png)
+![Screenshot of Dashboard View 2](screenshots/Capture%20d'écran%202024-11-12%20193954.png)
 ![Screenshot of Dashboard View 2](screenshots/Capture%20d'écran%202024-11-12%20194109.png)
 
 ---
